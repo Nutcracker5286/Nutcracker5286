@@ -1,9 +1,11 @@
-### Hi there 👋
+### welcome my git 👋
 
 <!--
 **Nutcracker5286/Nutcracker5286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+**고기가 제일 좋아~**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
